@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes ,HashRouter} from 'react-router-dom';
 import ButtonAppBar from './components/AppBar';
 import Home from './components/Home';
 import PageNotFound from './components/PageNotFound';
@@ -11,7 +11,7 @@ import store from './redux/store';
 function App() {
   return (
    <Provider store={store}>
-     <BrowserRouter>
+     <HashRouter>
     <Routes>
       <Route path='/' element={<ButtonAppBar/>}>
         <Route index element={<Home/>}/>
@@ -20,7 +20,7 @@ function App() {
 
       </Route>
     </Routes>
-    </BrowserRouter>
+    </HashRouter>
    </Provider>
   );
 }

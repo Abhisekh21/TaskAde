@@ -7,7 +7,7 @@ const  PageNotFound = ()=>{
     return (
         <>
         <div style={{display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center'}}>
-            <img src='https://Abhisekh21.github.io/TaskAde-APP/images/404.png' style={{maxWidth:'500px',maxHeight:'400px'}}></img>
+            <img src='https://Abhisekh21.github.io/TaskAde/images/404.png' style={{maxWidth:'500px',maxHeight:'400px'}}></img>
             <Button variant='outlined' onClick={()=>{
                 navigate('/')
 

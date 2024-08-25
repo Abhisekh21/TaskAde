@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TaskAde-APP/static/css/main.3c3b0e38.css",
-    "main.js": "/TaskAde-APP/static/js/main.9f8329d0.js",
+    "main.js": "/TaskAde-APP/static/js/main.fd26dfce.js",
     "static/js/453.ac1da872.chunk.js": "/TaskAde-APP/static/js/453.ac1da872.chunk.js",
     "index.html": "/TaskAde-APP/index.html",
     "main.3c3b0e38.css.map": "/TaskAde-APP/static/css/main.3c3b0e38.css.map",
-    "main.9f8329d0.js.map": "/TaskAde-APP/static/js/main.9f8329d0.js.map",
+    "main.fd26dfce.js.map": "/TaskAde-APP/static/js/main.fd26dfce.js.map",
     "453.ac1da872.chunk.js.map": "/TaskAde-APP/static/js/453.ac1da872.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c3b0e38.css",
-    "static/js/main.9f8329d0.js"
+    "static/js/main.fd26dfce.js"
   ]
 }

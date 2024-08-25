@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TaskAde-APP/static/css/main.3c3b0e38.css",
-    "main.js": "/TaskAde-APP/static/js/main.1364e051.js",
-    "static/js/453.ac1da872.chunk.js": "/TaskAde-APP/static/js/453.ac1da872.chunk.js",
-    "index.html": "/TaskAde-APP/index.html",
-    "main.3c3b0e38.css.map": "/TaskAde-APP/static/css/main.3c3b0e38.css.map",
-    "main.1364e051.js.map": "/TaskAde-APP/static/js/main.1364e051.js.map",
-    "453.ac1da872.chunk.js.map": "/TaskAde-APP/static/js/453.ac1da872.chunk.js.map"
+    "main.css": "/TaskAde/static/css/main.3c3b0e38.css",
+    "main.js": "/TaskAde/static/js/main.b7c45108.js",
+    "static/js/453.ac1da872.chunk.js": "/TaskAde/static/js/453.ac1da872.chunk.js",
+    "index.html": "/TaskAde/index.html",
+    "main.3c3b0e38.css.map": "/TaskAde/static/css/main.3c3b0e38.css.map",
+    "main.b7c45108.js.map": "/TaskAde/static/js/main.b7c45108.js.map",
+    "453.ac1da872.chunk.js.map": "/TaskAde/static/js/453.ac1da872.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c3b0e38.css",
-    "static/js/main.1364e051.js"
+    "static/js/main.b7c45108.js"
   ]
 }

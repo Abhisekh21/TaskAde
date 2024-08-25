@@ -1,0 +1,20 @@
+.imageContainer {
+    position: relative;
+    width: 100%;
+}
+
+.home {
+    width: 100%;
+    height: auto;
+}
+
+.box {
+    position: absolute;
+    padding: 10px;
+    left: 20%;
+    bottom: 50%;
+    color: white;
+    overflow: hidden;
+    margin: 0 auto;
+    color: black;
+}
